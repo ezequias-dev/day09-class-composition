@@ -1,4 +1,4 @@
-package exercises;
+package exercises.exercise03;
 
 class AccountHolder {
     private String fullName;

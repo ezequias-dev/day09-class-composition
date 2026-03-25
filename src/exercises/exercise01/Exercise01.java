@@ -1,4 +1,4 @@
-package exercises;
+package exercises.exercise01;
 
 class Address {
     private String street;

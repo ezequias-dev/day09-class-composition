@@ -1,4 +1,4 @@
-package exercises;
+package exercises.exercise02;
 
 class Supplier {
     private String name;
